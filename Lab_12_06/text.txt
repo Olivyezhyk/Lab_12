@@ -1,0 +1,2 @@
+I concatenated two queues into one.
+The new queue contains all the words from both lines.

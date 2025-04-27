@@ -1,0 +1,20 @@
+array
+2
+a fixed-size collection
+of elements
+loop
+2
+a control structure
+that repeats a block of code
+object
+2
+instance of class
+created by user
+pointer
+2
+a variable
+that stores memory address
+class
+2
+user-defined type
+that contains data

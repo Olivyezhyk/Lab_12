@@ -1,0 +1,14 @@
+File 1 name: file1
+Size: 500
+Creation date: 2023-01-01
+Access (0=READ, 1=WRITE, 2=DENIED): 0
+
+File 2 name: file2
+Size: 1000
+Creation date: 2024-02-15
+Access (0=READ, 1=WRITE, 2=DENIED): 2
+
+File 3 name: file3
+Size: 1500
+Creation date: 2024-03-25
+Access (0=READ, 1=WRITE, 2=DENIED): 1

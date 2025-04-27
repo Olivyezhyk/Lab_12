@@ -1,0 +1,45 @@
+Your choice: 1
+How many elements in the tree? 12
+Enter value 1: 50
+Enter value 2: 30
+Enter value 3: 70
+Enter value 4: 20
+Enter value 5: 40
+Enter value 6: 60
+Enter value 7: 80
+Enter value 8: 10
+Enter value 9: 35
+Enter value 10: 65
+Enter value 11: 75
+Enter value 12: 85
+
+Your choice: 2
+Tree as list: 10 20 30 35 40 50 60 65 70 75 80 85
+
+Your choice: 3
+Enter the value to highlight: 10
+Tree as list: [10] 20 30 35 40 50 60 65 70 75 80 85
+
+Your choice: 6
+Enter value to delete (leaf): 10
+
+Your choice: 7
+Enter value to delete (one child): 40
+
+Your choice: 2
+Tree as list: 20 30 35 50 60 65 70 75 80 85
+
+Your choice: 8
+Enter value to delete (two children): 30
+
+Your choice: 2
+Tree as list: 20 35 50 60 65 70 75 80 85
+
+Your choice: 9
+Enter root value of subtree to delete: 70
+
+Your choice: 2
+Tree as list: 20 35 50
+
+Your choice: 10
+Maximum Depth: 3
